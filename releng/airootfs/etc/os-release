@@ -1,0 +1,9 @@
+NAME=N0iR
+ID=n0ir
+ID_LIKE=arch
+BUILD_ID=rolling
+ANSI_COLOR="0;36"
+HOME_URL="https://github.com/l3ep/n0ir/"
+SUPPORT_URL="https://github.com/l3ep/n0ir/"
+BUG_REPORT_URL="https://github.com/l3ep/n0ir/"
+LOGO=

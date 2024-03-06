@@ -1,0 +1,16 @@
+root:x:0:root
+sys:x:3:bin,n0ir
+network:x:90:n0ir
+power:x:98:n0ir
+adm:x:999:n0ir
+wheel:x:998:n0ir
+uucp:x:987:n0ir
+optical:x:990:n0ir
+rfkill:x:983:n0ir
+video:x:986:n0ir
+storage:x:988:n0ir
+audio:x:995:n0ir
+users:x:985:n0ir
+nopasswdlogin:x:966:n0ir
+autologin:x:967:n0ir
+n0ir:x:1000:
